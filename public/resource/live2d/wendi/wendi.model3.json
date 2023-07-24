@@ -1,0 +1,168 @@
+{
+  "Version": 3,
+  "Type": 0,
+  "FileReferences": {
+    "Moc": "wendi.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": "wendi.physics3.json",
+    "PhysicsV2": {
+      "File": "wendi.physics3.json"
+    },
+    "Motions": {
+      "Tap": [
+        {
+          "Name": "诶嘿",
+          "File": "motions/eihei.motion3.json",
+          "Sound": "sounds/eihei.wav",
+          "Text": "诶嘿",
+          "MotionDuration": 30000
+        },
+        {
+          "Name": "过敏",
+          "File": "motions/guomin.motion3.json",
+          "Sound": "sounds/过敏.wav"
+        },
+        {
+          "Name": "可以吗",
+          "File": "motions/keyima.motion3.json",
+          "Sound": "sounds/可以吗.wav",
+          "Text": "可以吗？可以吗可以吗？"
+        },
+        {
+          "Name": "请求",
+          "File": "motions/qingqiu.motion3.json",
+          "Sound": "sounds/请求.wav",
+          "Text": "欸，要风神我更加努力一点？那你是不是也要展示点诚意呢。比如虔诚、热爱，或者说…"
+        }
+      ],
+      "Start": [
+        {
+          "Name": "初次见面",
+          "File": "motions/chucijianmian.motion3.json",
+          "Sound": "sounds/初次见面.wav",
+          "Text": "哈…睡得好香呀。欸，你好呀，旅行者，我们又见面了。嗯？不记得我了？嘿嘿，那就让我再次加入你的旅程吧。你的诗篇，值得被我这个世上最好的吟游诗人传唱！"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "fengjingling",
+        "File": "expressions/fengjingling.exp3.json"
+      },
+      {
+        "Name": "sad",
+        "File": "expressions/sad.exp3.json"
+      },
+      {
+        "Name": "xiao",
+        "File": "expressions/xiao.exp3.json"
+      },
+      {
+        "Name": "xingxing",
+        "File": "expressions/xingxing.exp3.json"
+      },
+      {
+        "Name": "zui",
+        "File": "expressions/zui.exp3.json"
+      }
+    ]
+  },
+  "Controllers": {
+    "ParamHit": {},
+    "ParamLoop": {},
+    "KeyTrigger": {},
+    "ParamTrigger": {},
+    "AreaTrigger": {},
+    "HandTrigger": {},
+    "EyeBlink": {
+      "MinInterval": 500,
+      "MaxInterval": 6000,
+      "Items": [
+        {
+          "Id": "ParamEyeLOpen",
+          "Min": 0.0,
+          "Max": 1.0,
+          "BlendMode": 2,
+          "Input": 0
+        },
+        {
+          "Id": "ParamEyeROpen",
+          "Min": 0.0,
+          "Max": 1.0,
+          "BlendMode": 2,
+          "Input": 0
+        }
+      ],
+      "Enabled": true
+    },
+    "LipSync": {
+      "Gain": 5.0,
+      "Items": [
+        {
+          "Id": "ParamMouthForm",
+          "Min": 0.0,
+          "Max": 1.0,
+          "Input": 0
+        },
+        {
+          "Id": "ParamMouthOpenY",
+          "Min": 0.0,
+          "Max": 1.0,
+          "Input": 0
+        }
+      ]
+    },
+    "MouseTracking": {
+      "SmoothTime": 0.15,
+      "Enabled": true
+    },
+    "AutoBreath": {
+      "Enabled": true
+    },
+    "ExtraMotion": {
+      "Enabled": true
+    },
+    "Accelerometer": {
+      "Enabled": true
+    },
+    "Microphone": {},
+    "Transform": {},
+    "FaceTracking": {
+      "Enabled": true
+    },
+    "HandTracking": {},
+    "ParamValue": {},
+    "PartOpacity": {},
+    "ArtmeshOpacity": {},
+    "ArtmeshColor": {},
+    "ArtmeshCulling": {
+      "DefaultMode": 0
+    },
+    "IntimacySystem": {}
+  },
+  "HitAreas": [
+    {
+      "Name": "诶嘿",
+      "Id": "ArtMesh48",
+      "Motion": "Tap:诶嘿"
+    },
+    {
+      "Name": "过敏",
+      "Id": "ArtMesh2",
+      "Motion": "Tap:过敏"
+    },
+    {
+      "Name": "可以吗",
+      "Id": "ArtMesh6",
+      "Motion": "Tap:可以吗"
+    },
+    {
+      "Name": "请求",
+      "Id": "ArtMesh61",
+      "Motion": "Tap:请求"
+    }
+  ],
+  "Options": {}
+}

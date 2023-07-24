@@ -1,5 +1,6 @@
 import { defineValaxyConfig } from 'valaxy'
 import type { UserThemeConfig } from 'valaxy-theme-yun'
+import { addonWaline } from 'valaxy-addon-waline'
 
 // add icons what you will need
 const safelist = [
@@ -17,35 +18,42 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: '云游君的小站',
+      title: '黑金的杂货间',
       cloud: {
         enable: true,
       },
     },
 
     pages: [
-      {
-        name: '我的小伙伴们',
-        url: '/links/',
-        icon: 'i-ri-genderless-line',
-        color: 'dodgerblue',
-      },
-      {
-        name: '喜欢的女孩子',
-        url: '/girls/',
-        icon: 'i-ri-women-line',
-        color: 'hotpink',
-      },
+      // {
+      //   name: '我的小伙伴们',
+      //   url: '/links/',
+      //   icon: 'i-ri-genderless-line',
+      //   color: 'dodgerblue',
+      // },
+      // {
+      //   name: '喜欢的女孩子',
+      //   url: '/girls/',
+      //   icon: 'i-ri-women-line',
+      //   color: 'hotpink',
+      // },
     ],
 
     footer: {
-      since: 2016,
+      since: 2020,
       beian: {
-        enable: true,
+        enable: false,
         icp: '苏ICP备17038157号',
       },
     },
   },
 
   unocss: { safelist },
+  addons: [
+    addonWaline({
+      serverURL: 'https://comment.carmendei.cn/',
+      // pageview: true,
+      comment: true,
+    }),
+  ],
 })
