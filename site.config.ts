@@ -28,7 +28,7 @@ export default defineSiteConfig({
     // },
     {
       name: 'QQ 3218178006',
-      link: 'https://qm.qq.com/cgi-bin/qm/qr?k=kZJzggTTCf4SpvEQ8lXWoi5ZjhAx0ILZ&jump_from=webapi',
+      link: 'https://qm.qq.com/q/XUIML8R5WC&personal_qrcode_source=4',
       icon: 'i-ri-qq-line',
       color: '#12B7F5',
     },
