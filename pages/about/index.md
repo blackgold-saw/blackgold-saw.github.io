@@ -2,14 +2,20 @@
 title: 关于我
 ---
 
-I am developing [Valaxy](https://github.com/YunYouJun/valaxy) - Next Generation Static Blog Framework.
+### 自我介绍
 
-If you like it, you can sponsor me in [GitHub](https://github.com/sponsors/YunYouJun) or [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn).
+95后，喜欢**漫画**，**游戏**，**动画**，**小说**
 
----
+当初觉得电影里的程序员~~很帅~~，于是义无反顾地选择了计算机专业。
+4年过去了，才发现自己是个FW。
 
-我正在开发 [Valaxy](https://github.com/YunYouJun/valaxy) - 下一代静态博客框架。
+为了让自己不再这么咸鱼下去，我决定建一个博客记录一下自己做了哪些事，有没有成长。
+以后会在这里堆放一些学习笔记、想写的小说脑洞之类的。
 
-如果你喜欢它，你可以在 [GitHub](https://github.com/sponsors/YunYouJun) 或 [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn) 赞助我。
+以上，请多指教。
 
-Check out the [Valaxy | GitHub](https://github.com/YunYouJun/valaxy) for more details.
+![alt 基友的嘲讽](/resource/artimg/about/liaotianjilu1.png)_拽，发现了真相_
+
+p.s. 如果有什么想对我说的，欢迎在下方留言
+
+（填写邮箱可以得到回复提示邮件哦~）

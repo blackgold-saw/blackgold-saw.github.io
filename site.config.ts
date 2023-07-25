@@ -8,12 +8,12 @@ export default defineSiteConfig({
     name: '黑金',
     avatar: '/resource/img/raven.png',
     status: {
-      emoji: '😊',
+      emoji: '😉',
       /**
        * show when hover emoji
        * @description 当鼠标悬浮在图标上时显示
        */
-      message: '欸嘿'
+      message: '欸嘿~'
     }
   },
   favicon:'/resource/img/raven.ico',
@@ -110,7 +110,7 @@ export default defineSiteConfig({
   },
 
   sponsor: {
-    enable: true,
+    enable: false,
     title: '我很可爱，请给我钱！',
     methods: [
       {
