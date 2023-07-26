@@ -1,5 +1,8 @@
 ---
 title: 关于我
+toc: false
+aside: false
+nav: false
 ---
 
 ### 自我介绍

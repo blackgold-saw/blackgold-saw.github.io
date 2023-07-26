@@ -21,6 +21,7 @@ export default defineValaxyConfig<UserThemeConfig>({
       url: '/resource/img/venti1.jpg',
       opacity: 0.8,
     },
+
     colors: {
       primary: '#01acdb',
       // selection_bg: '#8e71c1'
