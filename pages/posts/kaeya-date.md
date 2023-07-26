@@ -5,7 +5,7 @@ cover: '/resource/artimg/kaeya-date/cover.png'
 title: 【原神邀约体验】凯亚邀约第一幕·鬼话与甜酒
 tags: ['原神']
 date: 2023-07-26 00:11:57
-# draft: true
+draft: true
 end: false
 ---
 

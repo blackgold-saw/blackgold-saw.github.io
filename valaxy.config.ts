@@ -107,7 +107,7 @@ export default defineValaxyConfig<UserThemeConfig>({
     addonWaline({
       serverURL: 'https://comment.carmendei.cn/',
       // pageview: true,
-      comment: true,
+      comment: false,
     }),
   ],
 })
