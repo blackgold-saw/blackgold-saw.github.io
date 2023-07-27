@@ -1,1 +1,28 @@
 // you can custom css vars here
+:root {
+    --yun-sidebar-bg-color: var(--va-c-bg-light);
+    --yun-sidebar-bg-img: url("/resource/img/venti2.jpg");
+}
+body {
+    cursor: url("/resource/cur/Venti Normal Select.cur"), auto;
+}
+a {
+    cursor: url("/resource/cur/Venti Busy 2.cur"), auto;
+}
+a:hover {
+    cursor: url("/resource/cur/Venti Busy 2.cur"), auto;
+}
+.hty-icon-button {
+    cursor: url("/resource/cur/Venti Busy 2.cur"), pointer;
+}
+input {
+    cursor: url("/resource/cur/Venti Text Select Draw 3.cur"), auto;
+}
+
+.post-card {
+    opacity: 0.8;
+}
+
+.post-card-image{
+    opacity: 0.8;
+}

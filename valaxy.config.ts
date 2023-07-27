@@ -30,9 +30,7 @@ export default defineValaxyConfig<UserThemeConfig>({
       enable: true,
       colors: ['#40E0D0', '#AFEEEE', '#6CCEC9'],
     },
-    sidebar: {
-      bg_image:'/resource/img/venti2.jpg'
-    },
+
     banner: {
       enable: true,
       title: '黑金的杂货间',
@@ -68,6 +66,12 @@ export default defineValaxyConfig<UserThemeConfig>({
       //   icon: 'i-ri-women-line',
       //   color: 'hotpink',
       // },
+      {
+        name:'相册',
+        url:'/albums/',
+        icon:'i-ri:gallery-line',
+        color:'dodgerblue',
+      }
     ],
 
     footer: {
@@ -77,6 +81,14 @@ export default defineValaxyConfig<UserThemeConfig>({
         icp: '苏ICP备17038157号',
       },
     },
+
+    // menu: {
+    //   custom: {
+    //     title: "menu.travellings",
+    //     url: "https://travellings.cn/go.html",
+    //     icon: "i-fluent-vehicle-subway-24-regular",
+    //   },
+    // },
   },
 
   unocss: { safelist },
@@ -107,7 +119,7 @@ export default defineValaxyConfig<UserThemeConfig>({
     addonWaline({
       serverURL: 'https://comment.carmendei.cn/',
       // pageview: true,
-      comment: false,
+      comment: true,
     }),
   ],
 })

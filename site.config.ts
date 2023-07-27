@@ -14,11 +14,13 @@ export default defineSiteConfig({
        * @description 当鼠标悬浮在图标上时显示
        */
       message: '欸嘿~'
-    }
+    },
+
   },
+  
   favicon:'/resource/img/raven.ico',
   subtitle: '',
-  description: '',
+  description: '欸嘿~',
   social: [
     // {
     //   name: 'RSS',
@@ -108,7 +110,12 @@ export default defineSiteConfig({
   comment: {
     enable: true
   },
-
+  mediumZoom: {
+    enable: true,
+  },
+  statistics: {
+    enable: true,
+  },
   sponsor: {
     enable: false,
     title: '我很可爱，请给我钱！',

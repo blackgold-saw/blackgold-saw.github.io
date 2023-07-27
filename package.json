@@ -15,6 +15,7 @@
   "dependencies": {
     "medium-zoom": "^1.0.8",
     "valaxy": "^0.14.45",
+    "valaxy-addon-components": "^0.0.1",
     "valaxy-addon-waline": "^0.1.0",
     "valaxy-theme-yun": "^0.14.45"
   },
