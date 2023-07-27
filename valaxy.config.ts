@@ -1,6 +1,8 @@
 import { defineValaxyConfig } from 'valaxy'
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { addonWaline } from 'valaxy-addon-waline'
+import { addonLightGallery } from 'valaxy-addon-lightgallery'
+import { addonComponents } from 'valaxy-addon-components'
 
 // add icons what you will need
 const safelist = [
@@ -19,6 +21,7 @@ export default defineValaxyConfig<UserThemeConfig>({
     bg_image: {
       enable: true,
       url: '/resource/img/venti1.jpg',
+      dark: '/resource/img/xiaoven.jpg',
       opacity: 0.8,
     },
 
@@ -67,10 +70,10 @@ export default defineValaxyConfig<UserThemeConfig>({
       //   color: 'hotpink',
       // },
       {
-        name:'相册',
-        url:'/albums/',
-        icon:'i-ri:gallery-line',
-        color:'dodgerblue',
+        name: '相册',
+        url: '/albums/',
+        icon: 'i-ri:gallery-line',
+        color: 'dodgerblue',
       }
     ],
 
@@ -121,5 +124,7 @@ export default defineValaxyConfig<UserThemeConfig>({
       // pageview: true,
       comment: true,
     }),
+    addonLightGallery(),
+    addonComponents(),
   ],
 })

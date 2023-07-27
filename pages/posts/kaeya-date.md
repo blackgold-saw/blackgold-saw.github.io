@@ -5,9 +5,17 @@ cover: '/resource/artimg/kaeya-date/cover.png'
 title: 【原神邀约体验】凯亚邀约第一幕·鬼话与甜酒
 tags: ['原神']
 date: 2023-07-26 00:11:57
+updated: 2023-07-26 00:13:57
 # draft: true
 end: false
+aplayer: true
 ---
+<meting-js
+ id="33469292"
+ server="netease"
+ type="song"
+ theme="#C20C0C">
+</meting-js>
 
 其实我已经很久没有开过邀约了，邀约任务越堆越多，也就越来越没有了动力。
 

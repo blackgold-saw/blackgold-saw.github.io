@@ -8,12 +8,12 @@ export default defineSiteConfig({
     name: '黑金',
     avatar: '/resource/img/raven.png',
     status: {
-      emoji: '😉',
+      emoji: '💤',
       /**
        * show when hover emoji
        * @description 当鼠标悬浮在图标上时显示
        */
-      message: '欸嘿~'
+      message: 'zZ'
     },
 
   },

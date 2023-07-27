@@ -1,8 +1,8 @@
 ---
 layout: post
-title: helloworld
+title: hello world
 date: 2023-07-24 09:33:13
+aplayer: true
 ---
 
-新建文章测试！
-hello world!
+hello valaxy
