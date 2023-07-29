@@ -3,7 +3,7 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://carmendei.cn/',
   lang: 'zh-CN',
-  title: '杂货间',
+  title: '杂物间',
   author: {
     name: '黑金',
     avatar: '/resource/img/raven.png',

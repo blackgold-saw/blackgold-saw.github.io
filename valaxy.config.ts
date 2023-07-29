@@ -36,7 +36,7 @@ export default defineValaxyConfig<UserThemeConfig>({
 
     banner: {
       enable: true,
-      title: '黑金的杂货间',
+      title: '黑金的杂物间',
       cloud: {
         enable: true,
       },
