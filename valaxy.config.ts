@@ -80,8 +80,8 @@ export default defineValaxyConfig<UserThemeConfig>({
     footer: {
       since: 2020,
       beian: {
-        enable: false,
-        icp: '苏ICP备17038157号',
+        enable: true,
+        icp: '鄂ICP备2023013297号',
       },
     },
 
