@@ -2,27 +2,27 @@
 
 :root {
     --yun-sidebar-bg-color: var(--va-c-bg-light);
-    --yun-sidebar-bg-img: url("/resource/img/venti2.jpg");
+    --yun-sidebar-bg-img: url("http://cdn.carmendei.cn/myblog/resource/img/venti2.jpg");
 }
 
 body {
-    cursor: url("/resource/cur/Venti Normal Select.cur"), auto;
+    cursor: url("http://cdn.carmendei.cn/myblog/resource/cur/Venti Normal Select.cur"), auto;
 }
 
 a {
-    cursor: url("/resource/cur/Venti Busy 2.cur"), auto;
+    cursor: url("http://cdn.carmendei.cn/myblog/resource/cur/Venti Busy 2.cur"), auto;
 }
 
 a:hover {
-    cursor: url("/resource/cur/Venti Busy 2.cur"), auto;
+    cursor: url("http://cdn.carmendei.cn/myblog/resource/cur/Venti Busy 2.cur"), auto;
 }
 
 .hty-icon-button {
-    cursor: url("/resource/cur/Venti Busy 2.cur"), pointer;
+    cursor: url("http://cdn.carmendei.cn/myblog/resource/cur/Venti Busy 2.cur"), pointer;
 }
 
 input {
-    cursor: url("/resource/cur/Venti Text Select Draw 3.cur"), auto;
+    cursor: url("http://cdn.carmendei.cn/myblog/resource/cur/Venti Text Select Draw 3.cur"), auto;
 }
 
 .post-card {
@@ -35,7 +35,7 @@ input {
 
 html.dark {
     --yun-bg-img: none;
-    --yun-sidebar-bg-img: url("/resource/img/xiaoven2.jpg");
+    --yun-sidebar-bg-img: url("http://cdn.carmendei.cn/myblog/resource/img/xiaoven2.jpg");
 
     .post-card {
         opacity: 1;

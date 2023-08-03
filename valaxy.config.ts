@@ -20,8 +20,8 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     bg_image: {
       enable: true,
-      url: '/resource/img/venti1.jpg',
-      dark: '/resource/img/xiaoven.jpg',
+      url: 'http://cdn.carmendei.cn/myblog/resource/img/venti1.jpg',
+      dark: 'http://cdn.carmendei.cn/myblog/resource/img/xiaoven.jpg',
       opacity: 0.8,
     },
 
@@ -50,7 +50,7 @@ export default defineValaxyConfig<UserThemeConfig>({
       }
     },
     // cursor:{
-    //   default: '/resource/cur/Venti Normal Select.cur'
+    //   default: 'http://cdn.carmendei.cn/myblog/resource/cur/Venti Normal Select.cur'
     // },
     notice: {
       enable: true,
