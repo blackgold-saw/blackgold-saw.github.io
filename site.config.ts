@@ -28,12 +28,12 @@ export default defineSiteConfig({
     //   icon: 'i-ri-rss-line',
     //   color: 'orange',
     // },
-    {
-      name: 'QQ 3218178006',
-      link: 'https://qm.qq.com/q/XUIML8R5WC&personal_qrcode_source=4',
-      icon: 'i-ri-qq-line',
-      color: '#12B7F5',
-    },
+    // {
+    //   name: 'QQ 3218178006',
+    //   link: 'https://qm.qq.com/q/XUIML8R5WC&personal_qrcode_source=4',
+    //   icon: 'i-ri-qq-line',
+    //   color: '#12B7F5',
+    // },
     // {
     //   name: 'GitHub',
     //   link: 'https://github.com/YunYouJun',
@@ -88,12 +88,12 @@ export default defineSiteConfig({
     //   icon: 'i-ri-telegram-line',
     //   color: '#0088CC',
     // },
-    {
-      name: 'E-Mail',
-      link: 'mailto:dianfang9712@gmail.com',
-      icon: 'i-ri-mail-line',
-      color: '#8E71C1',
-    },
+    // {
+    //   name: 'E-Mail',
+    //   link: 'mailto:dianfang9712@gmail.com',
+    //   icon: 'i-ri-mail-line',
+    //   color: '#8E71C1',
+    // },
     // {
     //   name: 'Travelling',
     //   link: 'https://www.travellings.cn/go.html',

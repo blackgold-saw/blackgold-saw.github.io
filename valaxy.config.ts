@@ -85,13 +85,13 @@ export default defineValaxyConfig<UserThemeConfig>({
       },
     },
 
-    // menu: {
-    //   custom: {
-    //     title: "menu.travellings",
-    //     url: "https://travellings.cn/go.html",
-    //     icon: "i-fluent-vehicle-subway-24-regular",
-    //   },
-    // },
+    menu: {
+      custom: {
+        title: "留言板",
+        url: "/about",
+        icon: "i-ri-clipboard-line",
+      },
+    },
   },
 
   unocss: { safelist },
