@@ -13,7 +13,3 @@ photos:
     src: http://cdn.carmendei.cn/myblog/resource/img/你被骗了.png
     desc: 你被骗了
 ---
-
-- 测试密码：test
-
-{{ frontmatter }}

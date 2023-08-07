@@ -3,7 +3,7 @@ layout: post
 title: hello world
 date: 2023-07-24 09:33:13
 aplayer: true
-password: 123456
+password: test
 # hide: true 
 ---
 
@@ -12,4 +12,7 @@ password: 123456
 <!-- more -->
 
 hello valaxy
+<!-- 
+- 测试密码：test
 
+{{ frontmatter }} -->
