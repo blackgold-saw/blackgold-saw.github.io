@@ -17,7 +17,7 @@ nav: false
 
 以上，请多指教。
 
-![alt 基友的嘲讽](http://cdn.carmendei.cn/myblog/resource/artimg/about/liaotianjilu1.png)_拽，发现了真相_
+![alt 基友的嘲讽](https://cdn.carmendei.cn/myblog/resource/artimg/about/liaotianjilu1.png)_拽，发现了真相_
 
 p.s. 如果有什么想对我说的，欢迎在下方留言
 

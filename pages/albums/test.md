@@ -7,9 +7,9 @@ aside: false
 gallery_password: test
 photos:
   - caption: 锐雯
-    src: http://cdn.carmendei.cn/myblog/resource/img/raven.png
+    src: https://cdn.carmendei.cn/myblog/resource/img/raven.png
     desc: 老婆画的
   - caption: 你被骗了
-    src: http://cdn.carmendei.cn/myblog/resource/img/你被骗了.png
+    src: https://cdn.carmendei.cn/myblog/resource/img/你被骗了.png
     desc: 你被骗了
 ---

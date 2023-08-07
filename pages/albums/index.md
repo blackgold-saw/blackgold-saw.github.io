@@ -11,6 +11,6 @@ icon: i-ri:gallery-line,
 albums:
   - caption: 测试相册1
     url: /albums/test
-    cover: http://cdn.carmendei.cn/myblog/resource/img/你被骗了.png
+    cover: https://cdn.carmendei.cn/myblog/resource/img/你被骗了.png
     desc: 测试相册
 ---

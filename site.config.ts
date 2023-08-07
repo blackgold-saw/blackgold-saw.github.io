@@ -6,7 +6,7 @@ export default defineSiteConfig({
   title: '杂物间',
   author: {
     name: '黑金',
-    avatar: 'http://cdn.carmendei.cn/myblog/resource/img/raven.png',
+    avatar: 'https://cdn.carmendei.cn/myblog/resource/img/raven.png',
     status: {
       emoji: '💤',
       /**
@@ -18,7 +18,7 @@ export default defineSiteConfig({
 
   },
   
-  favicon:'http://cdn.carmendei.cn/myblog/resource/img/raven.ico',
+  favicon:'https://cdn.carmendei.cn/myblog/resource/img/raven.ico',
   subtitle: '',
   description: '欸嘿~',
   social: [
