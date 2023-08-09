@@ -50,6 +50,10 @@ export default {
             :style="`color:${mailSocial.color}`">
             <div class="icon" :class="mailSocial.icon" />
         </a>
+        <!-- <a class="links-of-author-item yun-icon-btn" rel="noopener" title="\巴巴托斯!/" target="_blank" href="https://venti.wiki/"
+            :style="`color:${qqSocial.color}`">
+            <div class="icon" style="width: 2rem;height: 2rem;"><img src="https://cdn.carmendei.cn/myblog/resource/img/venti-q.jpg" /></div>
+        </a> -->
     </div>
 </template>
 

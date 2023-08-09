@@ -33,7 +33,7 @@ Git是一个分布式版本控制软件，可以有效、高速地处理从很�
 添加当前目录下的所有文件到暂存区：`git add .` <br />
 添加指定目录到暂存区，包括子目录：`git add [dir]` <br />
 添加一个或多个文件到暂存区：`git add [file1] [file2] ...` <br />
-- 查看项目当前状态：`git status`
+- 查看项目当前状态：`git status -s`
 - 提交代码至本地仓库：`git commit -m "commit info"`
 - 修改提交描述：`git commit --amend`
 - 推送代码到远程仓库：`git push`
@@ -46,9 +46,10 @@ Git是一个分布式版本控制软件，可以有效、高速地处理从很�
 - 修改分支名称：`git branch -m old_branch_name new_branch_name`
 - 合并分支：`git merge fake-branch`
 
-
-参考
-
-1. [维基百科：Git](https://zh.wikipedia.org/wiki/Git)
-2. [语雀：云游君的学习笔记](https://www.yuque.com/yunyoujun/notes/git-learn-note)
-3. [菜鸟教程：Git](https://www.runoob.com/git/git-tutorial.html)
+::: info 本文参考
+<font size=2> 1. <a href="https://zh.wikipedia.org/wiki/Git">维基百科：Git</a> </font> <br />
+<font size=2> 2. <a href="https://www.yuque.com/yunyoujun/notes/git-learn-note">语雀：云游君的学习笔记</a> </font> <br />
+<font size=2> 3. <a href="https://www.runoob.com/git/git-tutorial.html">菜鸟教程：Git</a> </font>
+<br />
+<br />
+:::
