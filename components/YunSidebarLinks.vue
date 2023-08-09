@@ -18,7 +18,17 @@ const themeConfig = useThemeConfig()
     title="\巴巴托斯!/"
     to="https://venti.wiki/"
     >
-      <div class="icon w-8 h-8" ><img src="https://cdn.carmendei.cn/myblog/resource/img/venti-q.jpg"/></div>
+     <div class="icon w-8 h-8" ><img src="https://cdn.carmendei.cn/myblog/resource/img/venti_juice.png"/></div>
     </AppLink>
+
+     <AppLink
+    class="link-item yun-icon-btn" inline-flex
+    title="留影机"
+    to="/albums/"
+    >
+     <div class="icon w-8 h-8" ><img src="https://cdn.carmendei.cn/myblog/resource/img/venti-icon/camera.png"/></div>
+    </AppLink>
+
+  
   </div>
 </template>

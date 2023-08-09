@@ -69,12 +69,12 @@ export default defineValaxyConfig<UserThemeConfig>({
       //   icon: 'i-ri-women-line',
       //   color: 'hotpink',
       // },
-      {
-        name: '相册',
-        url: '/albums/',
-        icon: 'i-ri:gallery-line',
-        color: 'dodgerblue',
-      }
+      // {
+      //   name: '相册',
+      //   url: '/albums/',
+      //   icon: 'i-ri:gallery-line',
+      //   color: 'dodgerblue',
+      // }
     ],
 
     footer: {
