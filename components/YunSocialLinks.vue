@@ -25,7 +25,7 @@ export default {
             textArea.select();
             try {
                 const successful = document.execCommand("copy");
-                const msg = successful ? link + "\nCopied to clipboard!" : "Copy failed!";
+                const msg = successful ? link + "\n已经成功拷贝到剪切板啦~来找我玩吧(*･ω< )" : "哦豁，拷贝失败了呢Σ(⊙▽⊙";
                 alert(msg);
             } catch (err) {
                 console.error("Copy failed: ", err);

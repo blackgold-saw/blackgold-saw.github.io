@@ -26,7 +26,11 @@ export default defineValaxyConfig<UserThemeConfig>({
     },
 
     colors: {
-      primary: 'LightSeaGreen',
+      // primary: 'LightSeaGreen',
+      // primary: 'SeaGreen',
+      // primary: 'MediumSeaGreen',
+      // primary: 'DarkSeaGreen',
+      primary:'Teal',
       // selection_bg: '#8e71c1'
     },
     fireworks: {
