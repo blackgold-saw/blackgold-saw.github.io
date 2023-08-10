@@ -26,7 +26,7 @@ export default defineValaxyConfig<UserThemeConfig>({
     },
 
     colors: {
-      primary: '#01acdb',
+      primary: 'LightSeaGreen',
       // selection_bg: '#8e71c1'
     },
     fireworks: {
@@ -49,9 +49,6 @@ export default defineValaxyConfig<UserThemeConfig>({
         api: '',
       }
     },
-    // cursor:{
-    //   default: 'https://cdn.carmendei.cn/myblog/resource/cur/Venti Normal Select.cur'
-    // },
     notice: {
       enable: true,
       content: '施工中',

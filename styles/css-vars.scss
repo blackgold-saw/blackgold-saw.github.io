@@ -33,6 +33,11 @@ input {
     opacity: 0.8;
 }
 
+.post-nav-item{
+    background-color: rgba(240, 255, 255,0.5)
+}
+// dark
+
 html.dark {
     --yun-bg-img: none;
     --yun-sidebar-bg-img: url("https://cdn.carmendei.cn/myblog/resource/img/xiaoven2.jpg");
@@ -51,5 +56,9 @@ html.dark {
 
     .post-tag:hover {
         color: var(--va-c-primary);
+    }
+
+    .post-nav-item{
+        background-color: transparent;
     }
 }

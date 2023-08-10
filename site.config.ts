@@ -17,8 +17,8 @@ export default defineSiteConfig({
     },
 
   },
-  
-  favicon:'https://cdn.carmendei.cn/myblog/resource/img/raven.ico',
+
+  favicon: 'https://cdn.carmendei.cn/myblog/resource/img/raven.ico',
   subtitle: '',
   description: '欸嘿~',
   social: [
@@ -115,6 +115,12 @@ export default defineSiteConfig({
   },
   statistics: {
     enable: true,
+    readTime: {
+      speed: {
+        cn: 300,
+        en: 200
+      }
+    }
   },
   encrypt: {
     enable: true,
