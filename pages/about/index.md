@@ -19,6 +19,6 @@ nav: false
 
 ![alt 基友的嘲讽](https://cdn.carmendei.cn/myblog/resource/artimg/about/liaotianjilu1.png)_拽，发现了真相_
 
-p.s. 如果有什么想对我说的，欢迎在下方留言
-
-（填写邮箱可以得到回复提示邮件哦~）
+>如果有什么想对我说的，欢迎在下方留言 <br />
+填写邮箱可以得到回复提示邮件 <br />
+要是有经常来玩的打算，也可以点击评论区的登录按钮注册专属账号~
