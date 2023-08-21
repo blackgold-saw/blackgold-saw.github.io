@@ -1,1 +1,54 @@
 // you can custom css here
+body {
+    cursor: url("https://cdn.carmendei.cn/myblog/resource/cur/Venti Normal Select.cur"), auto;
+}
+
+a {
+    cursor: url("https://cdn.carmendei.cn/myblog/resource/cur/Venti Busy 2.cur"), auto;
+}
+
+a:hover {
+    cursor: url("https://cdn.carmendei.cn/myblog/resource/cur/Venti Busy 2.cur"), auto;
+}
+
+.hty-icon-button {
+    cursor: url("https://cdn.carmendei.cn/myblog/resource/cur/Venti Busy 2.cur"), pointer;
+}
+
+input {
+    cursor: url("https://cdn.carmendei.cn/myblog/resource/cur/Venti Text Select Draw 3.cur"), auto;
+}
+
+.post-card {
+    opacity: 0.8;
+}
+
+.post-card-image {
+    opacity: 0.8;
+}
+
+.post-nav-item{
+    background-color: rgba(240, 255, 255,0.5)
+}
+
+html.dark{
+    .post-card {
+        opacity: 1;
+    }
+
+    .post-card-image {
+        opacity: 1;
+    }
+
+    .post-tag {
+        color: #fff;
+    }
+
+    .post-tag:hover {
+        color: var(--va-c-primary);
+    }
+
+    .post-nav-item{
+        background-color: transparent;
+    }
+}

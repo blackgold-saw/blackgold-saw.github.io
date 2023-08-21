@@ -29,6 +29,5 @@ const themeConfig = useThemeConfig()
      <div class="icon w-8 h-8" ><img src="https://cdn.carmendei.cn/myblog/resource/img/venti-icon/camera.png"/></div>
     </AppLink>
 
-  
   </div>
 </template>

@@ -17,7 +17,7 @@ export default defineSiteConfig({
     },
 
   },
-
+  timezone: 'Asia/Shanghai',
   favicon: 'https://cdn.carmendei.cn/myblog/resource/img/raven.ico',
   subtitle: '',
   description: '欸嘿~',
