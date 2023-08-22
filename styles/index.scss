@@ -15,8 +15,27 @@ a:hover {
     cursor: url("https://cdn.carmendei.cn/myblog/resource/cur/Venti Busy 2.cur"), pointer;
 }
 
+.cursor-pointer {
+    cursor: url("https://cdn.carmendei.cn/myblog/resource/cur/Venti Busy 2.cur"), pointer !important;
+}
+
+.yun-icon-btn {
+    cursor: url("https://cdn.carmendei.cn/myblog/resource/cur/Venti Busy 2.cur"), pointer !important;
+}
+
+button{
+    cursor: url("https://cdn.carmendei.cn/myblog/resource/cur/Venti Busy 2.cur"), pointer !important;
+}
+
+p{
+    cursor: url("https://cdn.carmendei.cn/myblog/resource/cur/Venti Text Select Draw 3.cur"), auto !important;
+}
+textarea{
+    cursor: url("https://cdn.carmendei.cn/myblog/resource/cur/Venti Text Select Draw 3.cur"), auto !important;
+}
+
 input {
-    cursor: url("https://cdn.carmendei.cn/myblog/resource/cur/Venti Text Select Draw 3.cur"), auto;
+    cursor: url("https://cdn.carmendei.cn/myblog/resource/cur/Venti Text Select Draw 3.cur"), auto !important;
 }
 
 .post-card {
@@ -27,11 +46,11 @@ input {
     opacity: 0.8;
 }
 
-.post-nav-item{
-    background-color: rgba(240, 255, 255,0.5)
+.post-nav-item {
+    background-color: rgba(240, 255, 255, 0.5);
 }
 
-html.dark{
+html.dark {
     .post-card {
         opacity: 1;
     }
@@ -48,7 +67,7 @@ html.dark{
         color: var(--va-c-primary);
     }
 
-    .post-nav-item{
+    .post-nav-item {
         background-color: transparent;
     }
 }
