@@ -37,7 +37,10 @@ textarea{
 input {
     cursor: url("https://cdn.carmendei.cn/myblog/resource/cur/Venti Text Select Draw 3.cur"), auto !important;
 }
+code {
+    cursor: url("https://cdn.carmendei.cn/myblog/resource/cur/Venti Text Select Draw 3.cur"), auto !important;
 
+}
 .post-card {
     opacity: 0.8;
 }
@@ -49,6 +52,7 @@ input {
 .post-nav-item {
     background-color: rgba(240, 255, 255, 0.5);
 }
+
 
 html.dark {
     .post-card {

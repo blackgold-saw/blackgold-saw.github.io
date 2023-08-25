@@ -4,6 +4,7 @@ date: 2020-04-18 16:27:24
 updated: 2020-04-18 16:27:24
 layout: gallery
 aside: false
+nav: false
 gallery_password: test
 photos:
   - caption: 锐雯

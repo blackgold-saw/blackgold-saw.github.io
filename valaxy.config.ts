@@ -89,7 +89,7 @@ export default defineValaxyConfig<UserThemeConfig>({
     menu: {
       custom: {
         title: "留言板",
-        url: "/about",
+        url: "/message-board",
         icon: "i-ri-clipboard-line",
       },
     },

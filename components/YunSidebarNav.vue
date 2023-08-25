@@ -16,7 +16,7 @@ const tags = useTags()
     <router-link class="site-link-item yun-icon-btn" to="/" :title="t('menu.home')">
       <div>
          <img src="https://cdn.carmendei.cn/myblog/resource/img/venti-icon/风车.png"/>
-         <!-- <img src="https://cdn.carmendei.cn/myblog/resource/img/venti-icon/mond-black.png"/> -->
+         <!-- <img src="https://cdn.carmendei.cn/myblog/resource/img/anemo.svg"/> -->
       </div>
     </router-link>
 
@@ -36,6 +36,8 @@ const tags = useTags()
     <AppLink class="site-link-item yun-icon-btn" :to="themeConfig.menu.custom.url" :title="t(themeConfig.menu.custom.title)">
       <div>
         <img src="https://cdn.carmendei.cn/myblog/resource/img/venti-icon/Cecilia icons.png"/>
+        <!-- <img src="https://cdn.carmendei.cn/myblog/resource/img/plume (1).svg"/> -->
+     
       </div>
     </AppLink>
   </nav>
