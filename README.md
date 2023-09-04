@@ -1,6 +1,6 @@
 # 主页
 
-地址: [](https://www.carmendei.cn/)
+地址: <https://www.carmendei.cn/>
 
 ## 预览
 
