@@ -12,6 +12,7 @@ const tags = useTags()
 </script>
 
 <template>
+
   <nav class="site-nav" text-xl mt-6>
     <router-link class="site-link-item yun-icon-btn" to="/" :title="t('menu.home')">
       <div>

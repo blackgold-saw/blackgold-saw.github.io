@@ -2,7 +2,19 @@
 title: 关于我
 nav: false
 medium_zoom: true
+aplayer: true
 ---
+
+十分**自由**的歌单~
+
+<meting-js
+ id="64839976"
+ server="netease"
+ type="playlist"
+ theme="#C20C0C"
+ order="random"
+>
+</meting-js>
 
 ## 一个简单的自我介绍~
 

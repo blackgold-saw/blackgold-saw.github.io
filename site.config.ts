@@ -22,12 +22,12 @@ export default defineSiteConfig({
   subtitle: '',
   description: '欸嘿~',
   social: [
-    // {
-    //   name: 'RSS',
-    //   link: '/atom.xml',
-    //   icon: 'i-ri-rss-line',
-    //   color: 'orange',
-    // },
+    {
+      name: 'RSS',
+      link: '/atom.xml',
+      icon: 'i-ri-rss-line',
+      color: 'orange',
+    },
     // {
     //   name: 'QQ 3218178006',
     //   link: 'https://qm.qq.com/q/XUIML8R5WC&personal_qrcode_source=4',
