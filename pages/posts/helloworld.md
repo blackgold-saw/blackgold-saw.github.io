@@ -16,3 +16,26 @@ encryptedContent: git
 
 hello valaxy
 
+-----
+
+### i18n
+
+::: zh-CN
+另一种 i18n 方案。
+
+更多内容：...
+:::
+
+::: en
+Another i18n method.
+
+More info...
+:::
+
+::: zh-CN
+中文
+:::
+
+::: en
+English
+:::
