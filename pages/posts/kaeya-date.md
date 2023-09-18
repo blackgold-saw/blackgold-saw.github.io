@@ -12,6 +12,10 @@ end: false
 aplayer: true
 time_warning: false
 ---
+☢️<font color=red>内含大量图片，流量预警！</font>☢️
+
+<!-- more -->
+
 ::: danger 警告
 本文包含凯亚邀约第一幕《鬼话与甜酒》的大量<font color=red>**剧透**</font>，还未完成此邀约任务的玩家请谨慎观看。
 :::
