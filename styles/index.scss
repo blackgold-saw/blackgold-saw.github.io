@@ -56,6 +56,12 @@ code {
     background-color: rgba(240, 255, 255, 0.5);
 }
 
+.va-toc .va-toc-item .outline-link:hover{
+   color: LightSeaGreen !important;
+}
+.va-toc .va-toc-item .outline-link.active{
+    color: LightSeaGreen !important;
+}
 
 html.dark {
     .post-card {

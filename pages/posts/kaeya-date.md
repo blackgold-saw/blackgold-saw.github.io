@@ -4,7 +4,7 @@ medium_zoom: true
 cover: 'https://cdn.carmendei.cn/myblog/resource/artimg/kaeya-date/cover.png'
 title: 【原神邀约体验】凯亚邀约第一幕·鬼话与甜酒
 tags: ['原神']
-categories: ['玩原神玩得']
+categories: ['🎮玩玩','原神','邀约任务']
 date: 2023-07-26 00:11:57
 updated: 2023-07-26 00:13:57
 # draft: true
