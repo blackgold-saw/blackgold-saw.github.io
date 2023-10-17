@@ -17,3 +17,6 @@ node_modules
 
 components.d.ts
 /public/resource
+
+# valaxy
+public/valaxy-fuse-list.json
