@@ -45,12 +45,15 @@ code {
 
 }
 .post-card {
-    opacity: 0.8;
+    opacity: 0.9;
 }
 
 .post-card-image {
-    opacity: 0.8;
+    opacity: 0.9;
 }
+// .post-card-info > img{
+//     opacity: 1;
+// }
 
 .post-nav-item {
     background-color: rgba(240, 255, 255, 0.5);
@@ -65,11 +68,11 @@ code {
 
 html.dark {
     .post-card {
-        opacity: 1;
+        opacity: 0.9;
     }
 
     .post-card-image {
-        opacity: 1;
+        opacity: 0.9;
     }
 
     .post-tag {
