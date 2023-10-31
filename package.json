@@ -1,6 +1,6 @@
 {
   "name": "valaxy-blog",
-  "version": "0.15.7",
+  "version": "0.15.13",
   "private": true,
   "scripts": {
     "build": "npm run fuse && npm run build:ssg && npm run rss",
@@ -14,11 +14,12 @@
   },
   "dependencies": {
     "functions-have-names": "^1.2.3",
-    "valaxy": "0.15.7",
+    "valaxy": "0.15.13",
     "valaxy-addon-components": "^0.0.2",
     "valaxy-addon-lightgallery": "^0.0.2",
+    "valaxy-addon-meting": "^0.0.1",
     "valaxy-addon-waline": "^0.1.1",
-    "valaxy-theme-yun": "0.15.7"
+    "valaxy-theme-yun": "0.15.13"
   },
   "devDependencies": {
     "typescript": "^5.2.2"

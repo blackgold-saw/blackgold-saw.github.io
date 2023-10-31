@@ -2,6 +2,7 @@
 layout: post
 title: 【原神主线体验】魔神任务第四章（第1~2幕）
 cover: 'https://cdn.carmendei.cn/meme/judgement.jpg'
+excerpt_type: html
 date: 2023-08-21 15:37:11
 tags: ['原神']
 categories: ['🎮玩玩','原神','主线任务']

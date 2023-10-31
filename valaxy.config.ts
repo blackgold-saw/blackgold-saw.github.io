@@ -3,6 +3,7 @@ import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { addonWaline } from 'valaxy-addon-waline'
 import { addonLightGallery } from 'valaxy-addon-lightgallery'
 import { addonComponents } from 'valaxy-addon-components'
+import { addonMeting } from 'valaxy-addon-meting'
 
 // add icons what you will need
 const safelist = [
@@ -127,6 +128,9 @@ export default defineValaxyConfig<UserThemeConfig>({
     }),
     addonLightGallery(),
     addonComponents(),
+    addonMeting({
+      global: true,
+    }),
 
   ],
 })

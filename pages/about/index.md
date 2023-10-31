@@ -5,17 +5,6 @@ medium_zoom: true
 aplayer: true
 ---
 
-十分**自由**的歌单~
-
-<meting-js
- id="64839976"
- server="netease"
- type="playlist"
- theme="#C20C0C"
- order="random"
->
-</meting-js>
-
 ## 一个简单的自我介绍~
 
 95后，喜欢**漫画**，**游戏**，**动画**，**小说**

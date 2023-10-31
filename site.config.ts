@@ -8,7 +8,7 @@ export default defineSiteConfig({
     name: '黑金',
     avatar: 'https://cdn.carmendei.cn/myblog/resource/img/raven.png',
     status: {
-      emoji: '💤',
+      emoji: '🥱',
       /**
        * show when hover emoji
        * @description 当鼠标悬浮在图标上时显示
@@ -17,10 +17,13 @@ export default defineSiteConfig({
     },
 
   },
+  frontmatter:{
+    time_warning:false,
+  },
   timezone: 'Asia/Shanghai',
   favicon: 'https://cdn.carmendei.cn/myblog/resource/img/raven.ico',
   subtitle: '',
-  description: '欸嘿~',
+  description: '坚持春困，坚持夏休，坚持秋乏，坚持冬眠',
   social: [
     {
       name: 'RSS',
@@ -121,7 +124,7 @@ export default defineSiteConfig({
        * 忽略位置
        * 这对于搜索文档全文内容有用，若无需全文搜索，则无需设置此项
        */
-      ignoreLocation: true,
+      ignoreLocation: false,
     },
   },
 
@@ -131,6 +134,7 @@ export default defineSiteConfig({
   mediumZoom: {
     enable: true,
   },
+  vanillaLazyload: { enable: true },
   statistics: {
     enable: true,
     readTime: {
