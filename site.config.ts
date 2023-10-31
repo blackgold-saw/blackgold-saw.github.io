@@ -124,7 +124,7 @@ export default defineSiteConfig({
        * 忽略位置
        * 这对于搜索文档全文内容有用，若无需全文搜索，则无需设置此项
        */
-      ignoreLocation: false,
+      ignoreLocation: true,
     },
   },
 

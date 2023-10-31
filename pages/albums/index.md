@@ -9,7 +9,11 @@ icon: i-ri:gallery-line,
 # title: 云游的小分类
 # comment: false
 albums:
-  - caption: 测试相册1
+  - caption: 杂七杂八的图
+    url: /albums/others
+    cover: https://cdn.carmendei.cn/myblog/resource/artimg/others/006.jpg
+    desc: 杂七杂八的图
+  - caption: 测试加密
     url: /albums/test
     cover: https://cdn.carmendei.cn/myblog/resource/img/你被骗了.png
     desc: 测试相册
