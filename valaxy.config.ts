@@ -123,8 +123,11 @@ export default defineValaxyConfig<UserThemeConfig>({
   addons: [
     addonWaline({
       serverURL: 'https://comment.carmendei.cn/',
-      // pageview: true,
+      pageview: true,
       comment: true,
+      locale: {
+        placeholder: "填写邮箱，可以收到回复通知",
+      },
     }),
     addonLightGallery(),
     addonComponents(),
