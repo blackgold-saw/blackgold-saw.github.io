@@ -133,8 +133,13 @@ export default defineValaxyConfig<UserThemeConfig>({
     addonComponents(),
     addonMeting({
       global: true,
+      props: {
+        id: '5395067437', // invalid
+        type:'playlist',
+        server:'netease',
+        autoplay: false, // invalid
+     }
     }),
-
   ],
 })
 
