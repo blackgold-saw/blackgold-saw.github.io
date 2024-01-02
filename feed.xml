@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>杂物间</title>
+        <link>https://www.carmendei.cn/</link>
+        <description>坚持春困，坚持夏休，坚持秋乏，坚持冬眠</description>
+        <lastBuildDate>Tue, 02 Jan 2024 09:29:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>杂物间</title>
+            <url>https://cdn.carmendei.cn/myblog/resource/img/raven.png</url>
+            <link>https://www.carmendei.cn/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © 黑金</copyright>
+        <atom:link href="https://www.carmendei.cn/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Git常用命令整理]]></title>
+            <link>https://www.carmendei.cn/posts/git</link>
+            <guid>https://www.carmendei.cn/posts/git</guid>
+            <pubDate>Tue, 02 Jan 2024 09:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>存放一些比较常用的Git命令。</p>
+</blockquote>
+<p><strong>先说说啥是Git</strong></p>
+<p>Git是一个分布式版本控制软件，可以有效、高速地处理从很小到非常大的项目版本管理。</p>
+<p><a href="https://git-scm.com/">官网戳这</a></p>
+]]></content:encoded>
+            <author>i@valaxy.site (黑金)</author>
+        </item>
+        <item>
+            <title><![CDATA[Hello world]]></title>
+            <link>https://www.carmendei.cn/posts/helloworld</link>
+            <guid>https://www.carmendei.cn/posts/helloworld</guid>
+            <pubDate>Tue, 02 Jan 2024 09:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>一篇平平无奇的测试用文章</p>
+</blockquote>
+]]></content:encoded>
+            <author>i@valaxy.site (黑金)</author>
+        </item>
+        <item>
+            <title><![CDATA[【Markdown语法】字体颜色大小及文字底色设置（转载）]]></title>
+            <link>https://www.carmendei.cn/posts/markdown</link>
+            <guid>https://www.carmendei.cn/posts/markdown</guid>
+            <pubDate>Tue, 02 Jan 2024 09:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>本文转载自：<a href="https://blog.csdn.net/qq_43732429/article/details/108034518">【Markdown语法】字体颜色大小及文字</p>
+</blockquote>
+]]></content:encoded>
+            <author>i@valaxy.site (黑金)</author>
+        </item>
+        <item>
+            <title><![CDATA[【扫漫】《剑尊归来》漫画]]></title>
+            <link>https://www.carmendei.cn/posts/return-of-the-blossoming-blade</link>
+            <guid>https://www.carmendei.cn/posts/return-of-the-blossoming-blade</guid>
+            <pubDate>Tue, 02 Jan 2024 09:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p>作者：LICO <br/><br>
+类型：重生，玄幻，武侠 <br/><br>
+状态：第1部已完结。第2部连载中，周更 <br/><br>
+简介：华山派梅花剑尊清明和大魔头同归于尽，百年后带着记忆转生成了幼童，一边振兴门派</p>
+]]></content:encoded>
+            <author>i@valaxy.site (黑金)</author>
+        </item>
+        <item>
+            <title><![CDATA[🏅评分标准]]></title>
+            <link>https://www.carmendei.cn/posts/score-criteria</link>
+            <guid>https://www.carmendei.cn/posts/score-criteria</guid>
+            <pubDate>Tue, 02 Jan 2024 09:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>2023年8月9日</h2>
+<h3>小说</h3>
+<ul>
+<li>🎨 文笔（共2分）
+<ul>
+<li>满意：2分</li>
+<li>无功无过：1分</li>
+<li>狗屁不通：0分</li>
+</ul>
+</li>
+<li>📒 剧情（共8分）
+<ul>
+<li>
+<h2>角色塑造：共3分</h2>
+</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+            <author>i@valaxy.site (黑金)</author>
+        </item>
+        <item>
+            <title><![CDATA[【原神主线体验】魔神任务第四章（第1~2幕）]]></title>
+            <link>https://www.carmendei.cn/posts/genshin-archon-quest-4.0</link>
+            <guid>https://www.carmendei.cn/posts/genshin-archon-quest-4.0</guid>
+            <pubDate>Tue, 31 Oct 2023 19:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p>☢️<font color=red><strong>内含大量图片，流量预警！</strong></font>☢️</p>
+]]></content:encoded>
+            <author>i@valaxy.site (黑金)</author>
+        </item>
+        <item>
+            <title><![CDATA[教练我想成为VBA高手]]></title>
+            <link>https://www.carmendei.cn/posts/vba</link>
+            <guid>https://www.carmendei.cn/posts/vba</guid>
+            <pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>1. 第一个项目：Hello World</h2>
+<p>效果如下：</p>
+<p>![](<a href="https://cdn.carmendei.cn/myblog/resource/artimg/vba/HelloWorld">https://cdn.carmendei.cn/myblog/resource/artimg/vba/HelloWorld</a>.</p>
+]]></content:encoded>
+            <author>i@valaxy.site (黑金)</author>
+        </item>
+        <item>
+            <title><![CDATA[【原神邀约体验】凯亚邀约第一幕·鬼话与甜酒]]></title>
+            <link>https://www.carmendei.cn/posts/kaeya-date</link>
+            <guid>https://www.carmendei.cn/posts/kaeya-date</guid>
+            <pubDate>Wed, 26 Jul 2023 00:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p>☢️<font color=red>内含大量图片，流量预警！</font>☢️</p>
+]]></content:encoded>
+            <author>i@valaxy.site (黑金)</author>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.carmendei.cn/</id>
+    <title>杂物间</title>
+    <updated>2024-01-02T09:29:12.141Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>黑金</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://www.carmendei.cn/"/>
+    <link rel="self" href="https://www.carmendei.cn/atom.xml"/>
+    <subtitle>坚持春困，坚持夏休，坚持秋乏，坚持冬眠</subtitle>
+    <logo>https://cdn.carmendei.cn/myblog/resource/img/raven.png</logo>
+    <icon>https://www.carmendei.cn/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © 黑金</rights>
+    <entry>
+        <title type="html"><![CDATA[Git常用命令整理]]></title>
+        <id>https://www.carmendei.cn/posts/git</id>
+        <link href="https://www.carmendei.cn/posts/git"/>
+        <updated>2023-08-04T17:21:12.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>存放一些比较常用的Git命令。</p>
+</blockquote>
+<p><strong>先说说啥是Git</strong></p>
+<p>Git是一个分布式版本控制软件，可以有效、高速地处理从很小到非常大的项目版本管理。</p>
+<p><a href="https://git-scm.com/">官网戳这</a></p>
+]]></content>
+        <author>
+            <name>黑金</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-01-02T09:28:03.842Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello world]]></title>
+        <id>https://www.carmendei.cn/posts/helloworld</id>
+        <link href="https://www.carmendei.cn/posts/helloworld"/>
+        <updated>2023-07-24T09:33:13.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>一篇平平无奇的测试用文章</p>
+</blockquote>
+]]></content>
+        <author>
+            <name>黑金</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-01-02T09:28:03.842Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Markdown语法】字体颜色大小及文字底色设置（转载）]]></title>
+        <id>https://www.carmendei.cn/posts/markdown</id>
+        <link href="https://www.carmendei.cn/posts/markdown"/>
+        <updated>2023-08-10T11:37:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>本文转载自：<a href="https://blog.csdn.net/qq_43732429/article/details/108034518">【Markdown语法】字体颜色大小及文字</p>
+</blockquote>
+]]></content>
+        <author>
+            <name>黑金</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-01-02T09:28:03.842Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【扫漫】《剑尊归来》漫画]]></title>
+        <id>https://www.carmendei.cn/posts/return-of-the-blossoming-blade</id>
+        <link href="https://www.carmendei.cn/posts/return-of-the-blossoming-blade"/>
+        <updated>2022-11-23T15:18:57.000Z</updated>
+        <content type="html"><![CDATA[<p>作者：LICO <br/><br>
+类型：重生，玄幻，武侠 <br/><br>
+状态：第1部已完结。第2部连载中，周更 <br/><br>
+简介：华山派梅花剑尊清明和大魔头同归于尽，百年后带着记忆转生成了幼童，一边振兴门派</p>
+]]></content>
+        <author>
+            <name>黑金</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-01-02T09:28:03.842Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏅评分标准]]></title>
+        <id>https://www.carmendei.cn/posts/score-criteria</id>
+        <link href="https://www.carmendei.cn/posts/score-criteria"/>
+        <updated>2023-10-08T15:58:39.000Z</updated>
+        <content type="html"><![CDATA[<h2>2023年8月9日</h2>
+<h3>小说</h3>
+<ul>
+<li>🎨 文笔（共2分）
+<ul>
+<li>满意：2分</li>
+<li>无功无过：1分</li>
+<li>狗屁不通：0分</li>
+</ul>
+</li>
+<li>📒 剧情（共8分）
+<ul>
+<li>
+<h2>角色塑造：共3分</h2>
+</li>
+</ul>
+</li>
+</ul>
+]]></content>
+        <author>
+            <name>黑金</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-01-02T09:28:03.842Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【原神主线体验】魔神任务第四章（第1~2幕）]]></title>
+        <id>https://www.carmendei.cn/posts/genshin-archon-quest-4.0</id>
+        <link href="https://www.carmendei.cn/posts/genshin-archon-quest-4.0"/>
+        <updated>2023-08-21T15:37:11.000Z</updated>
+        <content type="html"><![CDATA[<p>☢️<font color=red><strong>内含大量图片，流量预警！</strong></font>☢️</p>
+]]></content>
+        <author>
+            <name>黑金</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-10-31T19:03:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教练我想成为VBA高手]]></title>
+        <id>https://www.carmendei.cn/posts/vba</id>
+        <link href="https://www.carmendei.cn/posts/vba"/>
+        <updated>2023-08-14T17:29:33.000Z</updated>
+        <content type="html"><![CDATA[<h2>1. 第一个项目：Hello World</h2>
+<p>效果如下：</p>
+<p>![](<a href="https://cdn.carmendei.cn/myblog/resource/artimg/vba/HelloWorld">https://cdn.carmendei.cn/myblog/resource/artimg/vba/HelloWorld</a>.</p>
+]]></content>
+        <author>
+            <name>黑金</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-08-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【原神邀约体验】凯亚邀约第一幕·鬼话与甜酒]]></title>
+        <id>https://www.carmendei.cn/posts/kaeya-date</id>
+        <link href="https://www.carmendei.cn/posts/kaeya-date"/>
+        <updated>2023-07-26T00:11:57.000Z</updated>
+        <content type="html"><![CDATA[<p>☢️<font color=red>内含大量图片，流量预警！</font>☢️</p>
+]]></content>
+        <author>
+            <name>黑金</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-07-26T00:13:57.000Z</published>
+    </entry>
+</feed>
