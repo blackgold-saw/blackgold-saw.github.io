@@ -3,14 +3,11 @@ layout: post
 title: hello world
 date: 2023-07-24 09:33:13
 aplayer: true
-password: test
-encryptedContent: git
+
 # hide: true 
 ---
 
 >一篇平平无奇的测试用文章
-
-加密测试
 
 <!-- more -->
 
@@ -18,7 +15,15 @@ hello valaxy
 
 -----
 
-### i18n
+### 部分加密测试
+密码：123456
+<!-- valaxy-encrypt-start:123456 -->
+**这是加密内容！！**
+**这是加密内容！！** 
+**这是加密内容！！** 
+<!-- valaxy-encrypt-end -->
+
+### i18n测试
 
 ::: zh-CN
 另一种 i18n 方案。
